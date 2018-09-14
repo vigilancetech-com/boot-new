@@ -1,5 +1,5 @@
 (def project '{{raw-name}})
-(def version "0.1.0-SNAPSHOT")
+(def version "0.1.2-SNAPSHOT")
 
 (set-env! :resource-paths #{"resources" "src"}
           :source-paths   #{"test"}
